@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Andres Zuleta",
+    "name": "Andrés Zuleta",
     "image": "",
     "email": "a.zuleta@campus.lmu.de",
     "url": "https://andres-zuleta.github.io/",
@@ -14,13 +14,36 @@
   },
   "work": [
     {
-      "name": "USM, LMU",
+      "name": "University Observatory Munich",
+      "position": "Research Assistant",
+      "startDate": "2023-01-15",
+      "endDate": "2023-06-30"
+    },
+    {
+      "name": "University Observatory Munich",
       "position": "Intern",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "TO DO.",
-      "highlights": ["TO DOOOO"]
+      "startDate": "2021-10-18",
+      "endDate": "2024-03-15"
+    },
+    {
+      "name": "University of Chile",
+      "position": "Technical Assistant",
+      "startDate": "2021-03-31",
+      "endDate": "2021-05-01",
+      "summary": "Project continuation."
+    },
+    {
+      "name": "University of Chile",
+      "position": "Intern",
+      "startDate": "2020-03-01",
+      "endDate": "2021-03-31"
+    },
+    {
+      "name": "University of Chile",
+      "position": "Intern",
+      "startDate": "2020-01-31",
+      "endDate": "2020-01-01",
+      "summary": "One month summer internship"
     }
   ],
   "education": [
@@ -60,14 +83,6 @@
       "releaseDate": "2024-06-17",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["TO DO", "TO DO"]
     }
   ],
   "languages": [
