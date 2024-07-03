@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office yet to be defined</p>
-    <p>Carrer de Can Magrans</p>
+    <p>Office D1-05</p>
+    <p>Carrer de Can Magrans S/N</p>
     <p>08193 Cerdanyola del Vallès, Barcelona</p>
 
 news: true # includes a list of news items
